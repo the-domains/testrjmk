@@ -1,0 +1,28 @@
+name: TestRJMK
+favicon: null
+layout_spectrum: 0.7808868545107543
+typography_spectrum: 0.41351599735207856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8575330823659897
+  lightness: 0.3559776770416647
+  saturation: 0.4163176647853106
+  rhythmicContrast: 0.08685771143063903
+purpose: []
