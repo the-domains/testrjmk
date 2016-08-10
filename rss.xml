@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TestRJMK]]></title>
+        <description><![CDATA[TestRJMK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 16:22:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a691c8b4-aa7e-40ba-a024-9163dfd36659.jpg">]]></description>
+            <link>undefinedlaunching-this-event-is-massively-exciting-and-were-very-ha/index.html</link>
+            <guid isPermaLink="false">ef231f70-5482-4577-8839-04df85ffcbae</guid>
+            <pubDate>Wed, 10 Aug 2016 16:22:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
