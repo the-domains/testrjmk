@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Booking information!! '
-datePublished: '2016-08-11T09:36:15.523Z'
-dateModified: '2016-08-11T09:35:36.309Z'
+datePublished: '2016-08-11T09:41:29.016Z'
+dateModified: '2016-08-11T09:40:19.545Z'
 title: ''
 author:
   - name: ''
