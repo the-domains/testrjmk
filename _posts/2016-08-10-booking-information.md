@@ -5,19 +5,25 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Booking information!! '
-datePublished: '2016-08-11T08:03:53.131Z'
-dateModified: '2016-08-11T08:03:52.200Z'
+datePublished: '2016-08-11T09:36:15.523Z'
+dateModified: '2016-08-11T09:35:36.309Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-10-booking-information.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: true
 url: booking-information/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff35bb44-fd82-4bd9-b323-520c320dc73a.jpg)
+> **Booking information!! **
 
-Booking information!!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff35bb44-fd82-4bd9-b323-520c320dc73a.jpg)
